@@ -2,6 +2,11 @@ ty generated #
 # =============== #
 log/
 target/
+
+.classpath
+.project
+c3p0.log
+.settings/
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
